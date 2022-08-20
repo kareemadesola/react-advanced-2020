@@ -1,10 +1,11 @@
 import React from "react";
-import Setup from "./tutorial/4-forms/setup/1-controlled-inputs";
+import Setup from "./tutorial/4-forms/setup/2-multiple-inputs";
+// import Setup from "./tutorial/4-forms/final/2-multiple-inputs";
 
 function App() {
   return (
     <div className="container">
-      <h1>Forms</h1>
+      <h1>Multiple Inputs</h1>
       <Setup />
     </div>
   );
