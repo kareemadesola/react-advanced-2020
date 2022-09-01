@@ -1,4 +1,4 @@
-!(react router)[https://reactrouter.com/web/guides/quick-start]
+[react router](https://reactrouter.com/web/guides/quick-start)
 
 ```
 npm install react-router-dom
